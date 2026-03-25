@@ -1,3 +1,6 @@
+# Instructions
+I built a Cowork scheduled task for daily job hunting. Here's the generic version — fill in your resume details, create a Google Sheet, and set it up as a daily scheduled task in Cowork. It runs automatically every morning and only surfaces jobs matching your profile.
+
 # Daily Job Hunt Automation
 
 ## Objective
